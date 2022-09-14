@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_68RaaCl98Lv" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Video Game 101</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">TEST</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Video_Game_101_ORG">
+    <organization identifier="Video_Game_101_ORG">
+      <title>Video Game 101</title>
+      <item identifier="Video_Game_101_SCO" isvisible="true" identifierref="__68RaaCl98Lv_RES">
+        <title>Video Game 101</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__68RaaCl98Lv_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6CA8bpK9Wwu_22_48_1046x788.mp4" />
+      <file href="mobile/poster_6efCzEeuMSa_video_6CA8bpK9Wwu_22_48_1046x788.jpg" />
+      <file href="mobile/5zyBQLWmeUi.png" />
+      <file href="mobile/6Y0W1AwXrd9.jpg" />
+      <file href="mobile/5YdawtOvLo7.png" />
+      <file href="mobile/5gB32CEmTcH.jpg" />
+      <file href="mobile/5XSl5CNtZgm.jpg" />
+      <file href="mobile/6oJTY6oIkBz.jpg" />
+      <file href="mobile/5j8xQ4mV0OU.jpg" />
+      <file href="mobile/5crvPe0NPFe.png" />
+      <file href="mobile/6BOQJirATMP.png" />
+      <file href="mobile/65CDeM7jaAq.png" />
+      <file href="mobile/5V3XAfWK438.png" />
+      <file href="mobile/5pqyzHa4PA4.png" />
+      <file href="mobile/6gvH3cPI3VM.png" />
+      <file href="mobile/5ekfZ9oyQJR.png" />
+      <file href="story_content/video_63enxZ6xuql_22_48_774x436.mp4" />
+      <file href="mobile/poster_5hhFd3WzIny_video_63enxZ6xuql_22_48_774x436.jpg" />
+      <file href="mobile/6c4SXfuInJ7.png" />
+      <file href="story_content/video_5myDM6xAJIt_22_48_774x436.mp4" />
+      <file href="mobile/poster_6UjYGTQBLkH_video_5myDM6xAJIt_22_48_774x436.jpg" />
+      <file href="mobile/5pQgB5ysmIp.png" />
+      <file href="mobile/5k2ye98QeD9.jpg" />
+      <file href="mobile/6aV9OK6PJuI.png" />
+      <file href="mobile/61lONRNyvBA.png" />
+      <file href="story_content/5miVjAjAV2f_44100_48_0.mp3" />
+      <file href="mobile/6HZX4BSHdwK.png" />
+      <file href="mobile/6HDLFZZxIzM.jpg" />
+      <file href="mobile/5lMlAZoMSHm.jpg" />
+      <file href="mobile/5ZQ5WK5hvSu.jpg" />
+      <file href="mobile/6AEMoP26YSL.jpg" />
+      <file href="mobile/5tZgrDoxR1R.png" />
+      <file href="mobile/5vBxrhiuWA9.png" />
+      <file href="mobile/6LA8wzbqM9X.png" />
+      <file href="mobile/64P7JFmeRzx.png" />
+      <file href="mobile/6JlwLWrTMLV.png" />
+      <file href="mobile/65Q6j1a3Ztr_P_0_42_1166_117.png" />
+      <file href="mobile/6dNA4YAplfj_P_0_133_1165_117.png" />
+      <file href="mobile/6W4rrsoDj8I.png" />
+      <file href="mobile/6XCfhNserZp_P_13_0_1157_124.png" />
+      <file href="mobile/6LmYvi8EeMH.png" />
+      <file href="mobile/5joENvtM57T.png" />
+      <file href="mobile/6kHKTKlSn5y.png" />
+      <file href="mobile/6MQlReUj56V.png" />
+      <file href="mobile/6l9J0JEV1KP.png" />
+      <file href="mobile/65WBQsQskWr.png" />
+      <file href="mobile/5v8Z7LQfPyR_M_1180_1180.png" />
+      <file href="mobile/6NMYRdctAop_M_1180_1180.png" />
+      <file href="mobile/6GjjPjZf58J_M_1180_1180.png" />
+      <file href="meta.xml" />
+      <file href="story_content/url.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5kmWHv4SQBJ.jpg" />
+      <file href="mobile/txt__default_6QSJ3ylBj6A.png" />
+      <file href="mobile/txt__default_6JI4gGDp4hi.png" />
+      <file href="mobile/txt__default_6j5sikTdBqg.png" />
+      <file href="mobile/txt__default_5xBPWvVHlEe.png" />
+      <file href="mobile/txt__default_6chwpbKEEj5.png" />
+      <file href="mobile/txt__default_5iNr9MQHdZl.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5haF2SiiItL.js" />
+      <file href="html5/data/js/5ibRDpDHpES.js" />
+      <file href="html5/data/js/5nz1yM8SNWG.js" />
+      <file href="html5/data/js/5uiSD8alU7i.js" />
+      <file href="html5/data/js/5x60sS0NGVc.js" />
+      <file href="html5/data/js/5yGZBumbg0p.js" />
+      <file href="html5/data/js/61pIX4qAaGp.js" />
+      <file href="html5/data/js/64EqktF1xvo.js" />
+      <file href="html5/data/js/67eZJzDQjUC.js" />
+      <file href="html5/data/js/6fTCefkoHBp.js" />
+      <file href="html5/data/js/6H6jKQyljli.js" />
+      <file href="html5/data/js/6hRwfWlROkK.js" />
+      <file href="html5/data/js/6Iw5BCxWNvw.js" />
+      <file href="html5/data/js/6IW5zUrVMIo.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
