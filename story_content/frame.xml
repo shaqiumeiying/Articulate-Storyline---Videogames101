@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="none" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1556,7 +1556,7 @@
             <slidelink slideid="_player.5snS2tspNUc.61pIX4qAaGp" displaytext="Welcome to VG101" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5gkUhTpBo8D" displaytext="About games" expand="true" type="slide">
+        <slidelink slideid="_player.5gkUhTpBo8D" displaytext="SHOW/HIDE LAYERS + FREE FORM QUIZZES" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5gkUhTpBo8D.67eZJzDQjUC" displaytext="games and genres" expand="false" type="slide" />
             <slidelink slideid="_player.5gkUhTpBo8D.6Iw5BCxWNvw" displaytext="Drag and Drop" expand="false" type="slide" />
@@ -1564,7 +1564,7 @@
             <slidelink slideid="_player.5gkUhTpBo8D.6hRwfWlROkK" displaytext="Pick Many" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5Z1D1bCRADe" displaytext="My fav games" expand="true" type="slide">
+        <slidelink slideid="_player.5Z1D1bCRADe" displaytext="TRANSITIONS+ANIMATIONS+TRIGGERS+MEDIA" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5Z1D1bCRADe.5uiSD8alU7i" displaytext="My top 5" expand="false" type="slide" />
             <slidelink slideid="_player.5Z1D1bCRADe.6IW5zUrVMIo" displaytext="YAKUZA 0" expand="false" type="slide" />
@@ -1575,7 +1575,13 @@
             <slidelink slideid="_player.5Z1D1bCRADe.5haF2SiiItL" displaytext="other games" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6e1B1Ok6ug8" displaytext="Off-topic test field" expand="true" type="slide">
+        <slidelink slideid="_player.5gzJ02pEkeP" displaytext="QUIZ BANK" expand="false" type="slide">
+          <links>
+            <slidelink slideid="_player.5gzJ02pEkeP.6XBXZ6DCAC8" displaytext="choose whisely..." expand="false" type="slide" />
+            <slidelink slideid="_player.5gzJ02pEkeP.5ilLPlP7xIK" displaytext="Draw from Vid game qs" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6e1B1Ok6ug8" displaytext="EMBEDED JAVASCRIPT" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6e1B1Ok6ug8.5nz1yM8SNWG" displaytext="js embeded" expand="false" type="slide" />
           </links>

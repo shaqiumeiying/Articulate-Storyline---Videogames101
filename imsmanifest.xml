@@ -58,6 +58,7 @@
       <title>Video Game 101</title>
       <item identifier="Video_Game_101_SCO" isvisible="true" identifierref="__68RaaCl98Lv_RES">
         <title>Video Game 101</title>
+        <adlcp:masteryscore>50</adlcp:masteryscore>
       </item>
     </organization>
   </organizations>
@@ -83,8 +84,7 @@
       <file href="story_content/video_63enxZ6xuql_22_48_774x436.mp4" />
       <file href="mobile/poster_5hhFd3WzIny_video_63enxZ6xuql_22_48_774x436.jpg" />
       <file href="mobile/6c4SXfuInJ7.png" />
-      <file href="story_content/video_5myDM6xAJIt_22_48_774x436.mp4" />
-      <file href="mobile/poster_6UjYGTQBLkH_video_5myDM6xAJIt_22_48_774x436.jpg" />
+      <file href="mobile/6qBYB2KFjPw6BFlyNA6ooB{Width=804, Height=435.75}Dark.png" />
       <file href="mobile/5pQgB5ysmIp.png" />
       <file href="mobile/5k2ye98QeD9.jpg" />
       <file href="mobile/6aV9OK6PJuI.png" />
@@ -96,6 +96,7 @@
       <file href="mobile/5ZQ5WK5hvSu.jpg" />
       <file href="mobile/6AEMoP26YSL.jpg" />
       <file href="mobile/5tZgrDoxR1R.png" />
+      <file href="story_content/5vCpZnBcxtJ_44100_48_0.mp3" />
       <file href="mobile/5vBxrhiuWA9.png" />
       <file href="mobile/6LA8wzbqM9X.png" />
       <file href="mobile/64P7JFmeRzx.png" />
@@ -113,6 +114,7 @@
       <file href="mobile/5v8Z7LQfPyR_M_1180_1180.png" />
       <file href="mobile/6NMYRdctAop_M_1180_1180.png" />
       <file href="mobile/6GjjPjZf58J_M_1180_1180.png" />
+      <file href="mobile/5cgQsYOtDRA.png" />
       <file href="meta.xml" />
       <file href="story_content/url.png" />
       <file href="story_content/user.js" />
@@ -124,11 +126,16 @@
       <file href="mobile/txt__default_6chwpbKEEj5.png" />
       <file href="mobile/txt__default_5iNr9MQHdZl.png" />
       <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5f1i1LPhgH2.js" />
       <file href="html5/data/js/5haF2SiiItL.js" />
       <file href="html5/data/js/5ibRDpDHpES.js" />
+      <file href="html5/data/js/5m2tE1TGpZ1.js" />
       <file href="html5/data/js/5nz1yM8SNWG.js" />
+      <file href="html5/data/js/5svlYJLmkCE.js" />
       <file href="html5/data/js/5uiSD8alU7i.js" />
+      <file href="html5/data/js/5vZHaTbQgCR.js" />
       <file href="html5/data/js/5x60sS0NGVc.js" />
+      <file href="html5/data/js/5yFeBt2EGQA.js" />
       <file href="html5/data/js/5yGZBumbg0p.js" />
       <file href="html5/data/js/61pIX4qAaGp.js" />
       <file href="html5/data/js/64EqktF1xvo.js" />
@@ -138,6 +145,7 @@
       <file href="html5/data/js/6hRwfWlROkK.js" />
       <file href="html5/data/js/6Iw5BCxWNvw.js" />
       <file href="html5/data/js/6IW5zUrVMIo.js" />
+      <file href="html5/data/js/6XBXZ6DCAC8.js" />
       <file href="html5/data/js/data.js" />
       <file href="html5/data/js/frame.js" />
       <file href="html5/data/js/paths.js" />
